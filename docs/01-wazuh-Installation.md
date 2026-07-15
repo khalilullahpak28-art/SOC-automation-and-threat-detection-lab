@@ -15,7 +15,7 @@ Environment
 
 1. Update the Operating System
 sudo apt update && sudo apt upgrade -y
-This ensures all system packages are up to date before installing Wazuh.
+This ensures all system packages are up to date before installing Wazuh. 
 
 2. Download the Official Wazuh Installer
 curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh
