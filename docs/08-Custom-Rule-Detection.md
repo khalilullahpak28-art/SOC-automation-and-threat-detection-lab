@@ -40,7 +40,7 @@ The rule was also managed through the Wazuh Dashboard to simplify future modific
 |----------|------|
 | Rule ID | 100002 |
 | Purpose | Detect Mimikatz Execution |
-| Severity | *(Add your level)* |
+| Severity | *15* |
 
 ---
 
