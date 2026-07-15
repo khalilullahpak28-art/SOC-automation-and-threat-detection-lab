@@ -2,7 +2,7 @@ SOC Automation & Threat Detection Lab
 
 A complete enterprise-style Security Operations Center (SOC) built using open-source security tools. This project demonstrates log collection, threat detection, incident investigation, and security automation in a realistic lab environment.
 
----t.
+---
 
 ## Features
 
