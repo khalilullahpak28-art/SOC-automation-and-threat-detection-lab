@@ -32,7 +32,6 @@ Example:
 mimikatz.exe
 ```
 
-*(Use the exact command you executed in your lab.)*
 
 ---
 
