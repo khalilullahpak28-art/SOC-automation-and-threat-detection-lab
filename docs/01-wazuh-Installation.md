@@ -1,8 +1,10 @@
-Wazuh Installation
-Objective
+# Wazuh Installation
+
+## Objective
 
 Deploy the Wazuh SIEM platform to monitor Windows endpoints, collect security logs, and detect security threats in a controlled SOC lab environment.
-Environment
+
+---
 
 | Component        | Value        |
 |------------------|--------------|
