@@ -2,7 +2,8 @@ SOC-automation-and-threat-detection-lab
 
 A complete enterprise-style Security Operations Center (SOC) built using open-source security tools. This project demonstrates log collection, threat detection, incident investigation, and security automation in a realistic lab environment.
 
-Features
+## Features
+
 - Wazuh SIEM deployment
 - Windows endpoint monitoring
 - Sysmon integration
@@ -11,6 +12,8 @@ Features
 - TheHive incident management
 - Shuffle SOAR automation
 - Documentation of every deployment step
+
+---
 
 Lab Architecture
 lab_architecture.png
@@ -27,8 +30,7 @@ Technology Stack
 | TheHive    | Incident Response       |
 | Shuffle    | Security Automation     |
 
-Current Progress
-
+## Current Progress
 - Wazuh Installation
 - Windows Agent Deployment
 - Sysmon Integration
@@ -37,16 +39,23 @@ Current Progress
 - Shuffle Integration
 - Complete SOC Automation
 
-Project Goals
+## Project Goals
+
 - Build an enterprise SOC from scratch.
 - Detect security events in real time.
 - Perform threat hunting.
 - Simulate cyber attacks.
 - Automate incident response.
 
-Documentation
+---
+
+## Documentation
+
 Detailed deployment guides are available in the `docs` directory.
 
-Author
-Khalil
+---
+
+## Author
+
+**Khalil**
 BS Computer Science | SOC Analyst | Blue Team Enthusiast
