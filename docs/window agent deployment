@@ -14,7 +14,7 @@ Deploy the Wazuh agent on a Windows 10 endpoint and establish secure communicati
 | Agent | Wazuh Agent |
 | Manager | Wazuh Server (Debian 12) |
 | Communication Port | 1514/UDP, 1515/TCP |
-
+ 
 ---
 
 ## Installation Steps
