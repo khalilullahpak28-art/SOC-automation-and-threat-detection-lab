@@ -11,7 +11,7 @@ Environment
 | Deployment Type  | Single Node  |
 | Virtualization   | VirtualBox   |
 
-## Installation Steps
+## Installation Steps 
 
 1. Update the Operating System
 sudo apt update && sudo apt upgrade -y
